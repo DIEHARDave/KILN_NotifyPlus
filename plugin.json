@@ -1,0 +1,10 @@
+{
+  "name": "notify-plus",
+  "description": "Add-on for notify: Discord cards (FlashForgeUI style), \"Printer on\", zMod's _NOTIFY TYPE= switches",
+  "version": "1.0.0",
+  "author": "DIEHARDave",
+  "url": "https://github.com/DIEHARDave/KILN_NotifyPlus",
+  "requires_os": "1.3",
+  "requires": ["notify"],
+  "conflicts": []
+}
