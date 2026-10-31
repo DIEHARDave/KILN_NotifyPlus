@@ -1,5 +1,7 @@
 # KILN_NotifyPlus
 
+> **Parts:** the printers, boards, readers and other gear that go with this project are listed at [projects.die-hard.net/gear](https://projects.die-hard.net/gear) (Amazon affiliate links).
+
 An add-on for [kiln-notify](https://github.com/djvalic/kiln-notify), the
 notifications plugin of [Kiln OS](https://github.com/djvalic/kiln-os) for
 the Flashforge AD5X. It adds what
